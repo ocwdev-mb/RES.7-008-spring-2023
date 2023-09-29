@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external--1547150123-1687806206085
+  name: 'Part 1: DNA Replication and Repair'
+  url: https://www.edx.org/course/molecular-biology-part-1-dna-replication-and-repair
+  weight: 10
+- identifier: external--193361850-1687376013220
+  name: 'Part 2: Transcription and Transposition'
+  url: https://www.edx.org/course/molecular-biology-part-2-transcription-and-transposition
+  weight: 20
+- identifier: external-728706035-1687376025023
+  name: 'Part 3: RNA Processing and Translation'
+  url: https://www.edx.org/course/molecular-biology-part-3-rna-processing-and-transl
+  weight: 30
